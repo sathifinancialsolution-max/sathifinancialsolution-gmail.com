@@ -1,0 +1,6 @@
+{
+  "name": "SFS – Sathi Financial Solution",
+  "description": "Professional loan, credit card, and insurance assistance through a trusted DSA network in Ajoynagar, Kolkata, West Bengal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
